@@ -108,7 +108,7 @@ Click `Show more` to view a full desciption of the alert including examples and 
 #### Security Full Description
 
 <img width="80%" src="https://user-images.githubusercontent.com/6920330/97208478-8bea0a80-1791-11eb-8a2a-f625649312f0.png">
-
+test
 </p>
 </details>
 
